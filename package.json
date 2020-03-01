@@ -1,0 +1,23 @@
+{
+  "name": "work-TLBB",
+  "version": "1.0.0",
+  "description": "tlbb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaokuangkuang/work-TLBB.git"
+  },
+  "keywords": [],
+  "author": "shaokuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaokuangkuang/work-TLBB/issues"
+  },
+  "homepage": "https://github.com/shaokuangkuang/work-TLBB#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
